@@ -17,4 +17,11 @@ Using Yahoo Finance Data in python , pandas and matplotlib ( Documentation Sourc
 <br>
 7> Combine sp500 data https://github.com/naashonomics/stockswithpython/blob/master/combinesp500data.ipynb
 <br> 
-
+8> Corelation Table 
+<br>
+9> Pre Process Data for ML
+<br>
+10> Create Target for ML
+<br>
+11>ML against SP500 prices 
+<br>
